@@ -35,7 +35,7 @@ public class reverseVowels {
 
         return String.valueOf(chars);
     }
-
+// another method
     private static String reverseVowel(String s) {
        StringBuilder sb = new StringBuilder(s);
        int l=0;
